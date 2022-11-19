@@ -3,9 +3,9 @@
   "description": "Soothing pastel theme for Standard Notes",
   "version": "0.1.14-alpha",
   "license": "GPL-3.0",
-  "main": "main.scss",
+  "main": "main.css",
    "sn": {
-    "main": "main.scss"
+    "main": "main.css"
   },
   "author": {
     "name": "rio-codes",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rio-codes/catppuccin-standardnotes.git"
+    "url": "git://github.com/arviceblot/catppuccin-standardnotes.git"
   },
   "bugs": {
     "url": "https://github.com/rio-codes/catppuccin-standardnotes/issues"

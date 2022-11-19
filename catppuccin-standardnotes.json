@@ -5,9 +5,9 @@
   "area": "themes",
   "version": "v0.1.14-alpha",
   "description": "Soothing pastel theme for Standard Notes.",
-  "url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/main.scss",
-  "download_url": "https://github.com/rio-codes/catppuccin-standardnotes/archive/refs/tags/v0.1.14-alpha.zip",
-  "latest_url": "https://raw.githubusercontent.com/rio-codes/catppuccin-standardnotes/main/ext.json",
+  "url": "https://raw.githubusercontent.com/arviceblot/catppuccin-standardnotes/main/main.css",
+  "download_url": "https://github.com/arviceblot/catppuccin-standardnotes/archive/refs/tags/v0.1.14-alpha.zip",
+  "latest_url": "https://raw.githubusercontent.com/arviceblot/catppuccin-standardnotes/main/ext.json",
   "marketing_url": "https://github.com/catppuccin/catppuccin",
   "thumbnail_url": "https://raw.githubusercontent.com/catppuccin/catppuccin/raw/main/assets/logos/exports/1544x1544_circle.png",
   "dock_icon": {
